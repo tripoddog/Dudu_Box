@@ -1,0 +1,6 @@
+## Interface: 120000, 120001
+## Title: Dudu Box
+## Author: Butadiene
+## Version: 1.0
+
+Dudu_main.lua
